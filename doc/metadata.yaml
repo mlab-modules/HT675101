@@ -1,24 +1,28 @@
-description: null
+description: DC motor control H-bridge
 github_branch: HT675101A
-github_description: null
+github_description: DC motor control H-bridge
 github_repo: HT675101
 github_url: https://github.com/mlab-modules/HT675101
 homepage: false
 images:
-- doc/img/HT675101A_small_Bot.jpg
-- doc/img/HT675101A_big_top.jpg
 - doc/img/HT675101A_small_top.jpg
+- doc/img/HT675101A_big_top.jpg
 - doc/img/HT675101A_big_Bot.jpg
+- doc/img/HT675101A_small_Bot.jpg
 - doc/html/HT675101A_files/image002.jpg
 - doc/html/HT675101A_files/image001.jpg
 - doc/img/HT675101A_QRcode.png
-- doc/html/HT675101A_files/image005.png
-- doc/html/HT675101A_files/image007.png
-- doc/html/HT675101A_files/image006.png
 - doc/html/HT675101A_files/image004.png
 - doc/html/HT675101A_files/image003.png
+- doc/html/HT675101A_files/image006.png
+- doc/html/HT675101A_files/image005.png
+- doc/html/HT675101A_files/image007.png
 mark: 50
 status: 0
-tags: []
+tags:
+- h-bridge
+- mlab-module
+- motor-control
+- motor-controller
 title: HT675101
-updated: '2023-09-17T11:51:18.366345+00:00'
+updated: '2024-05-18T20:17:13.511793+00:00'
