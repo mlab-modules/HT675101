@@ -19,6 +19,7 @@ images:
 - doc/html/HT675101A_files/image007.png
 mark: 50
 status: 0
+replaced: HBRIDGE03
 tags:
 - h-bridge
 - mlab-module
