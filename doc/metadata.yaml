@@ -18,12 +18,12 @@ images:
 - doc/html/HT675101A_files/image005.png
 - doc/html/HT675101A_files/image007.png
 mark: 50
-status: 0
 replaced: HBRIDGE03
+status: 0
 tags:
 - h-bridge
 - mlab-module
 - motor-control
 - motor-controller
 title: HT675101
-updated: '2024-05-18T20:17:44.284733+00:00'
+updated: '2024-05-18T20:20:29.693809+00:00'
