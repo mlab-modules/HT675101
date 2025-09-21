@@ -5,18 +5,18 @@ github_repo: HT675101
 github_url: https://github.com/mlab-modules/HT675101
 homepage: false
 images:
-- doc/img/HT675101A_small_top.jpg
-- doc/img/HT675101A_big_top.jpg
 - doc/img/HT675101A_big_Bot.jpg
+- doc/img/HT675101A_small_top.jpg
 - doc/img/HT675101A_small_Bot.jpg
-- doc/html/HT675101A_files/image002.jpg
+- doc/img/HT675101A_big_top.jpg
 - doc/html/HT675101A_files/image001.jpg
+- doc/html/HT675101A_files/image002.jpg
 - doc/img/HT675101A_QRcode.png
-- doc/html/HT675101A_files/image004.png
-- doc/html/HT675101A_files/image003.png
-- doc/html/HT675101A_files/image006.png
-- doc/html/HT675101A_files/image005.png
 - doc/html/HT675101A_files/image007.png
+- doc/html/HT675101A_files/image004.png
+- doc/html/HT675101A_files/image005.png
+- doc/html/HT675101A_files/image006.png
+- doc/html/HT675101A_files/image003.png
 mark: 50
 replaced: HBRIDGE03
 status: 0
@@ -26,4 +26,4 @@ tags:
 - motor-control
 - motor-controller
 title: HT675101
-updated: '2024-05-18T20:20:29.693809+00:00'
+updated: '2025-09-21T10:10:53.090167+00:00'

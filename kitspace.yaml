@@ -5,4 +5,4 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/HT675101
-summary: DC motor control H-bridge
+summary: "DC motor control H-bridge  1.8\u202FV to 6\u202FV and 2x500mA"
